@@ -9,7 +9,7 @@ Generate structured research reports from raw data in minutes.
 - Automates data analysis into professional reports  
 - Saves hours of manual formatting  
 - Produces concise, accurate summaries  
-🔗 [Try Me](https://app.mindstudio.ai/agents/research-report-generator-0d9a2807/run/f7ad5e62-7c85-49c2-b68e-4cd6a3912e57)
+🔗 [Request Access](#) – Connect with me to get access.
 
 ---
 
@@ -108,7 +108,7 @@ Pull structured info from text or profiles.
 - Extracts names, roles, companies  
 - Organizes into clean datasets  
 - Saves manual data entry time  
-🔗 [Try Me](https://app.mindstudio.ai/agents/extract-people-info-33c38f88/run)
+🔗 [Request Access](#) – Connect with me to get access.
 
 ---
 
