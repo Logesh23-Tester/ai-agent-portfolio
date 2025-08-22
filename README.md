@@ -126,7 +126,7 @@ Generate tailored sales decks and brochures.
 - Automates sales material creation  
 - Aligns with brand tone  
 - Saves design/marketing time  
-🔗 [Try Me](https://app.mindstudio.ai/agents/sales-collateral-generator-6835436d/run/7ae8ae85-7439-46ae-ba16-631f1fcc6548)
+🔗 [Request Access](#) – Connect with me to get access.
 
 ---
 
